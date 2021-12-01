@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import preprocessor,helper
 import plotly.express as px
-import matplotlib.pyplot as plt
 from vega_datasets import data
 import plotly.express as px
 import plotly.graph_objs as go
