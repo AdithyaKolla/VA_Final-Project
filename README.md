@@ -1,10 +1,13 @@
 # Visualizations of Olympic data
 
 ## Used Libraries:
-### Altair
-### Streamlit
-### Pandas
-### Plotly
+ Altair\
+Streamlit\
+ Pandas\
+ Plotly
+ 
+The Streamlit is deployed on Heroku.
+You can view the visualizations at https://olympics-dashboard-va.herokuapp.com/
 
 ### Olympics Dashboard from year 1896 to 2021
 Dashboards that are deployed in the streamlit app are:\
