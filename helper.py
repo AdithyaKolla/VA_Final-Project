@@ -2,7 +2,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 import plotly.graph_objects as go
 import pandas as pd
-import matplotlib.pyplot as plt
+
 
 
 def get_count_athletes_1_over_time(df,selected_country,selected_gender,year_range):
