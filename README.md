@@ -17,3 +17,8 @@ c.Medal Tally and Top 10 Athletes with filters on specific country,range of year
 d.Choropleth map for Gold,Silver,Bronze and Total Medals\
 e.Event wise and Sport wise Medal Tally\
 f.2021 Olympics data Visualization
+
+### How to run on your Machine:
+Clone the Repository to your local machine \
+Install all the required libraries\
+Open Command prompt, Go to the path of the project an type streamlit run app.py and press enter
