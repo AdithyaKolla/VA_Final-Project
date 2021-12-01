@@ -21,4 +21,4 @@ f.2021 Olympics data Visualization
 ### How to run on your Machine:
 Clone the Repository to your local machine \
 Install all the required libraries\
-Open Command prompt, Go to the path of the project an type streamlit run app.py and press enter
+Open Command prompt, Go to the path of the project and type streamlit run app.py and press enter
